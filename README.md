@@ -1,2 +1,2 @@
-# sorting-algorithms
-Sorting algorithms in c. My first implementations :-).
+# game-of-passwords
+Use the makefile to build this project.
